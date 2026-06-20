@@ -113,7 +113,7 @@ form{
     margin: 20px 0;
 }
 
-form > div{
+form > div{  /*direct child */
     margin-bottom: 25px;
 }
 
